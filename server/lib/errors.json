@@ -1,0 +1,55 @@
+{
+    "CLIENT_REGISTER": {
+        "en": "Fields left in client register",
+        "es": "Faltan campos para el registro de un cliente."
+    },
+    "USER_REGISTER": {
+        "en": "Fields left in user register",
+        "es": "Faltan campos para el registro de un usuario."
+    },
+    "UNKNOWN_ROLE": {
+        "en": "User role doesn`t exist in the current context",
+        "es": "El rol de usuario no existe"
+    },
+    "EMAIL_NOT_FOUND": {
+        "en": "User e-mail is not registered yet",
+        "es": "El email de usuario no se encuentra registrado"
+    },
+    "WRONG_PASS": {
+        "en": "Password incorrect",
+        "es": "Contraseña errónea"
+    },
+    "JSON_ERROR": {
+        "en": "Error loading file .json",
+        "es": "Error al cargar el archivo .json"
+    },
+    "JWT_ERROR": {
+        "en": "Error in authentication with JWT module",
+        "es": "Error durante la autenticación con el módulo JWT"
+    },
+    "MONGODB_INIT_ERROR": {
+        "en": "Error Initializing MongoDB",
+        "es": "Error al inicializar MongoDB"
+
+    },
+    "MONGODB_INSERT_ERROR": {
+        "en": "Error inserting in MongoDB",
+        "es": "Error al insertar en MongoDB"
+
+    },
+    "MONGODB_QUERY_ERROR": {
+        "en": "Error with the MongoDB query",
+        "es": "Error en la consulta a MongoDB"
+
+    },
+    "TOKEN_LEFT": {
+        "en": "You need a authentication token",
+        "es": "Necesitas un token de autenticación"
+
+    },
+    "TOKEN_INCORRECT": {
+        "en": "The token is no longer valid",
+        "es": "El token no es válido"
+
+    }
+}
